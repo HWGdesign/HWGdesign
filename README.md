@@ -40,5 +40,4 @@ Here are a few words about myself: <br>
 ![](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## Statistics:
-![](https://github-readme-streak-stats.herokuapp.com/?user=HWGdesign&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HWGDesign&&theme=dark&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HWGdesign&theme=tokyonight)]
